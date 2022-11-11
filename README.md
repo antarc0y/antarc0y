@@ -2,9 +2,9 @@
 
 - :grinning: CS student at University of Alberta
 - :girl: novice coder
-- :computer: python, java, C++, android studio
+- :computer: python, java, C/C++, android studio
 - :star2: interested in software development, UI design, game theory
-- :paperclip: yuihan980@gmail.com
+- :paperclip: juyi@ualberta.ca
 
 <!--
 **antarc0y/antarc0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

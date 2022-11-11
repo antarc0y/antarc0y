@@ -1,7 +1,8 @@
 ### Hi I'm antarc👋
 
-- :grinning: I'm a CS student at UofA
+- :grinning: CS student at University of Alberta
 - :computer: python, java, C++
+- :paperclip: yuihan980@gmail.com
 
 <!--
 **antarc0y/antarc0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

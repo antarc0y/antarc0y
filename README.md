@@ -1,4 +1,4 @@
-### Hi I'm antarc👋
+### Hi I'm yui👋
 
 - :grinning: CS student at University of Alberta
 - :girl: novice coder

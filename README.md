@@ -1,7 +1,9 @@
 ### Hi I'm antarc👋
 
 - :grinning: CS student at University of Alberta
-- :computer: python, java, C++
+- :girl: novice coder
+- :computer: python, java, C++, android studio
+- :star2: interested in software development, UI design, game theory
 - :paperclip: yuihan980@gmail.com
 
 <!--

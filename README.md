@@ -3,7 +3,7 @@
 - :grinning: CS student at University of Alberta
 - :girl: novice coder
 - :computer: python, java, C/C++, android studio
-- :star2: interested in software development, UI design, game theory
+- :star2: interested in software development, ui/ux design, game theory, machine learning
 - :paperclip: juyi@ualberta.ca
 
 <!--

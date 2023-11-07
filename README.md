@@ -1,9 +1,8 @@
-### Hi I'm Yui👋
 
-- :grinning: CS student at University of Alberta
-- :girl: junior programmer
-- :computer: python, java, C/C++, android studio, unity
-- :star2: interested in software development, ui/ux design, game theory, machine learning, data science
+
+- :girl: junior web dev
+- :computer: python, java, C/C++, android studio, unity, HTML, CSS, JS/React
+- :star2: interested in software development, ui/ux design, game dev, machine learning
 - :paperclip: juyi@ualberta.ca
 
 <!--

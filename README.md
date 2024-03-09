@@ -2,7 +2,7 @@
 
 - :girl: junior dev
 - :paintbrush: i try to make apps pretty
-- :computer: python, java, C/C++, android studio, unity, HTML, CSS, JS/React
+- :computer: python, java, C/C++, android studio, unity, HTML, CSS, javascript, typescript, React JS/React Native
 - :star2: interested in software development, ui/ux design, game dev, machine learning
 - :paperclip: yuihan980@gmail.com
 - :sparkles: special talent - spin a stick figure in MATLAB

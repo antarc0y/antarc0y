@@ -1,4 +1,4 @@
-# Hi! I'm Yui 👋
+# hey I'm Yui 👋
 
 ### 🐣 about me
 - 📐 software developer, web developer
@@ -17,7 +17,7 @@
 | :scroll: Certification | :school: Institution |
 | ----------- | ------------------------------------------------------- |
 | **BSc with Specialization in Computing Science** | **University of Alberta**, Canada<br> 2021 — 2023 |
-| **BSc with Specialization in Ecology, Evolution, and Environmental Biology **<br> Science Internship Program | **University of Alberta**, Canada<br> with Distinction <br> 2016 - 2021 |
+| **BSc with Specialization in Ecology, Evolution, and Environmental Biology**,<br> Science Internship Program | **University of Alberta**, Canada<br> with Distinction <br> 2016 - 2021 |
 
 ### 🏅 Awards
 <table width="100%">

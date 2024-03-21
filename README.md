@@ -10,7 +10,7 @@
 - 🖌️ design stack: Figma, Photoshop, Canva
 
 ### 💖 interests
-✨ front-end development, ⚙️ full stack development, and 🥼: biotechnology
+✨ front-end development, ⚙️ full stack development, and 🥼 biotechnology
 
 
 ### 🏫 education

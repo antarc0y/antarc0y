@@ -1,25 +1,23 @@
 # Hi! I'm Yui 👋
 
-### 🤓 About me
-- 📐 User Experience Designer
-- :school: 3rd year at SFU's Interactive Arts and Technology, Design Concentration
-- :computer: Graduate from BCIT's Computer Systems Technology, Tech Entrepreneurship
-- :smiling_face_with_three_hearts: Loves UI/UX design and frontend development
-- :straight_ruler: Design stack: Figma, Adobe XD, Adobe Creative Suite (Illustrator, Photoshop)
-- :keyboard: Technical stack: HTML, CSS/Sass, JavaScript, React, Next.js, Svelte
+### 🐣 about me
+- 📐 software developer, web developer
+- :school: University of Alberta, BSc Computing Science
+- 🧪: also BSc Evology and Environmental Biology
+- :smiling_face_with_three_hearts: enjoys front-end development
+- 📖: learning databases and API, aspiring full stack developer
+  - :keyboard: technical stack: Python, Java, C/C++, C#, Go, JavaScript, TypeScript, React, Svelte, SaaS, HTML, CSS
+- 🖌️: design stack: Figma, Photoshop, Canva
 
-### 💖 Interests
-📏 UI design, 🎨 Visual design, and :brain: UX design
+### 💖 interests
+✨ front-end development, ⚙️ full stack development, and 🥼: biotechnology
 
-### 🛠️ Tools and technologies
-- 📐 Design: Figma, Adobe XD, Illustrator, Photoshop, InDesign, AfterEffects, Premiere Pro
-- 💻 Development: HTML, CSS, Sass, JavaScript, React, Next.js, Svelte, Python, Java, Processing
 
-### 📚 Education
+### 🏫 education
 | :scroll: Certification | :school: Institution |
 | ----------- | ------------------------------------------------------- |
-| **BSci in Interactive Arts and Technology** | **Simon Fraser University**, Canada<br>May 2021—Present |
-| **Diploma in Computer Systems Technology**<br>Tech Entrepreneurship | **British Columbia Institute of Technology**, Canada<br> Graduated with disctinction <br>September 2019—May 2021 |
+| **BSc with Specialization in Computing Science** | **University of Alberta**, Canada<br> 2021 — 2023 |
+| **BSc with Specialization in Ecology, Evolution, and Environmental Biology **<br> Science Internship Program | **University of Alberta**, Canada<br> with Distinction <br> 2016 - 2021 |
 
 ### 🏅 Awards
 <table width="100%">
@@ -31,12 +29,8 @@
   </thead>
   <tbody>
     <tr>
-      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/proud-zebra.png"/></td>
-      <td width="50%"><b>First Place Winner of Eunoia UX Hackathon 2023</b> with a solution for Proud Zebra<br><i>Awarded March 2023</i></td>
-    </tr>
-    <tr>
-      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/chow-now-cover.png"/></td>
-      <td width="50%"><b>Iris Labs' Best Design Award at cmd-f 2023</b> and <b>First Place at cmd-f 2023</b> with the project Chow Now<br><i>Awarded March 2023</i></td>
+      <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/aquatic.png"/></td>
+      <td width="50%"><b>Community Service Learning Award at University of Alberta </i></td>
     </tr>
     <tr>
       <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/toneteller.png"/></td>
@@ -45,12 +39,8 @@
   </tbody>
 </table>
 
-### 🎖️ Honours
-- Computer Systems Technology Tech Entrepreneurship Award, awarded May 2021
-- President's Entrance Award at British Columbia Institute of Technology, awarded September 2019
-- District Authority Awward in Computer Programming, awarded June 2019
-- BC Excellence Award, awarded June 2019
-
-### 💛 Hobbies
-- Video games (League of Legends, Teamfight Tactics)
-- Reading and writing fantasy/romance novels
+### 💛 hobbies
+- 🐈 cats
+- 🧗climbing
+- 😻 cats that climb
+- 🔖 self-directed learning and projects 

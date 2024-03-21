@@ -3,11 +3,11 @@
 ### 🐣 about me
 - 📐 software developer, web developer
 - :school: University of Alberta, BSc Computing Science
-- 🧪: also BSc Evology and Environmental Biology
+- 🧪 also BSc Evology and Environmental Biology
 - :smiling_face_with_three_hearts: enjoys front-end development
-- 📖: learning databases and API, aspiring full stack developer
+- 📖 learning databases and API, aspiring full stack developer
 - :keyboard: technical stack: Python, Java, C/C++, C#, Go, JavaScript, TypeScript, React, Svelte, SaaS, HTML, CSS
-- 🖌️: design stack: Figma, Photoshop, Canva
+- 🖌️ design stack: Figma, Photoshop, Canva
 
 ### 💖 interests
 ✨ front-end development, ⚙️ full stack development, and 🥼: biotechnology

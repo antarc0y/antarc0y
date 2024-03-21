@@ -39,16 +39,8 @@
       <td width="50%"><b>Iris Labs' Best Design Award at cmd-f 2023</b> and <b>First Place at cmd-f 2023</b> with the project Chow Now<br><i>Awarded March 2023</i></td>
     </tr>
     <tr>
-      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/misfortune-cookies.png"/></td>
-      <td width="50%"><b>Judges' Choice award at RootHacks 2023</b> with the project Misfortune Cookie<br/><i>Awarded March 2023</i></td>
-    </tr>
-    <tr>
-      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller-landing.png"/></td>
+      <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/toneteller.png"/></td>
       <td width="50%"><b>2nd place winner of HackED 2023</b> with the project Toneteller<br/><i>Awarded January 2023</i></td>
-    </tr>
-   <tr>
-      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/air-tutor.png"/></td>
-      <td width="50%"><b>Most Useful App</b> award with the project AirTutor<br/><i>Awarded May 2020</i></td>
     </tr>
   </tbody>
 </table>

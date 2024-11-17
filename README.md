@@ -3,7 +3,7 @@
 ### 🐣 about me
 - 📐 software developer, web developer
 - :school: University of Alberta, BSc Computing Science
-- 🧪 also BSc Evology and Environmental Biology
+- 🌳 also BSc Ecology and Environmental Biology
 - :smiling_face_with_three_hearts: enjoys full-stack software development
 - 📖 learning data analytics, SQL, product management, LLMs
 - :keyboard: technical stack: Python, Java, C/C++, C#, Go, JavaScript, TypeScript, React, Svelte, SaaS, HTML, CSS

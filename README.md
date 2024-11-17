@@ -30,7 +30,7 @@
   <tbody>
     <tr>
       <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/aquatic.png"/></td>
-      <td width="50%"><b>Community Service Learning Award at University of Alberta </i></td>
+      <td width="50%"><b>Community Service Learning Award at University of Alberta <br/><i>Awarded April 2023</i></td>
     </tr>
     <tr>
       <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/toneteller.png"/></td>
@@ -41,6 +41,6 @@
 
 ### 💛 hobbies
 - 🐈 cats
-- 🧗climbing
+- 🧗 climbing
 - 😻 cats that climb
 - 🔖 self-directed learning and projects 

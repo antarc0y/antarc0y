@@ -38,8 +38,7 @@
   </tbody>
 </table>
 
-### 💛 hobbies
+### 💛 other likes
 - 🐈 cats
 - 🧗 climbing
 - 😻 cats that climb
-- 🔖 self-directed learning and projects 

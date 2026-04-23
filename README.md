@@ -29,11 +29,11 @@
   <tbody>
     <tr>
       <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/aquatic.png"/></td>
-      <td width="50%"><b>Community Service Learning Award at University of Alberta <br/><i>Awarded April 2023</i></td>
+      <td width="50%"><b>Community Service Learning Award at University of Alberta <br/><i>April 2023</i></td>
     </tr>
     <tr>
       <td width="35%"><img src="https://github.com/antarc0y/antarc0y/blob/main/toneteller.png"/></td>
-      <td width="50%"><b>2nd place winner of HackED 2023</b> with the project Toneteller<br/><i>Awarded January 2023</i></td>
+      <td width="50%"><b>HackED 2nd Place</b><br/><i>January 2023</i></td>
     </tr>
   </tbody>
 </table>
